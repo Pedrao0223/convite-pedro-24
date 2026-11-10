@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#FAF6F0"/>
+  <rect x="36" y="36" width="1128" height="558" rx="28" stroke="#E6A15C" stroke-width="2" stroke-dasharray="8 8"/>
+  <rect x="52" y="52" width="1096" height="526" rx="20" stroke="#2B2927" stroke-opacity="0.12" stroke-width="1.5"/>
+
+  <!-- Left Illustration: Minimalist Artisan Pizza -->
+  <g transform="translate(270, 315)">
+    <circle cx="0" cy="0" r="165" fill="#E6A15C" stroke="#2B2927" stroke-width="5"/>
+    <circle cx="0" cy="0" r="138" fill="#D9381E" stroke="#2B2927" stroke-width="3.5"/>
+    <circle cx="0" cy="0" r="122" fill="#FAF6F0"/>
+    <!-- Toppings -->
+    <circle cx="-48" cy="-45" r="20" fill="#D9381E" stroke="#2B2927" stroke-width="3"/>
+    <circle cx="52" cy="-38" r="18" fill="#D9381E" stroke="#2B2927" stroke-width="3"/>
+    <circle cx="-55" cy="46" r="19" fill="#D9381E" stroke="#2B2927" stroke-width="3"/>
+    <circle cx="45" cy="52" r="20" fill="#D9381E" stroke="#2B2927" stroke-width="3"/>
+    <circle cx="0" cy="-75" r="15" fill="#D9381E" stroke="#2B2927" stroke-width="3"/>
+    <circle cx="0" cy="72" r="16" fill="#D9381E" stroke="#2B2927" stroke-width="3"/>
+    <!-- Basil leaves -->
+    <ellipse cx="-18" cy="-10" rx="18" ry="10" transform="rotate(-25 -18 -10)" fill="#3B7A57" stroke="#2B2927" stroke-width="2.5"/>
+    <ellipse cx="22" cy="14" rx="18" ry="10" transform="rotate(30 22 14)" fill="#3B7A57" stroke="#2B2927" stroke-width="2.5"/>
+    <!-- Slice lines -->
+    <line x1="-165" y1="0" x2="165" y2="0" stroke="#2B2927" stroke-width="3"/>
+    <line x1="0" y1="-165" x2="0" y2="165" stroke="#2B2927" stroke-width="3"/>
+    <line x1="-116" y1="-116" x2="116" y2="116" stroke="#2B2927" stroke-width="3"/>
+    <line x1="-116" y1="116" x2="116" y2="-116" stroke="#2B2927" stroke-width="3"/>
+  </g>
+
+  <!-- Right Typography -->
+  <g transform="translate(510, 175)">
+    <rect x="0" y="0" width="250" height="40" rx="20" fill="#D9381E" fill-opacity="0.12"/>
+    <text x="24" y="26" fill="#D9381E" font-family="sans-serif" font-size="16" font-weight="700" letter-spacing="2">CONVITE INTERATIVO</text>
+    <text x="0" y="105" fill="#2B2927" font-family="sans-serif" font-size="58" font-weight="800">Pedro Henrique</text>
+    <text x="0" y="170" fill="#D9381E" font-family="sans-serif" font-size="54" font-weight="800">faz 24 anos! 🍕</text>
+    <text x="0" y="230" fill="#2B2927" fill-opacity="0.8" font-family="sans-serif" font-size="26" font-weight="500">Domingo, 29 de Novembro de 2026 • 20h00</text>
+    <rect x="0" y="268" width="430" height="64" rx="16" fill="#3B7A57"/>
+    <text x="32" y="308" fill="#FAF6F0" font-family="sans-serif" font-size="23" font-weight="700">Toque na pizza para abrir o convite</text>
+  </g>
+</svg>
